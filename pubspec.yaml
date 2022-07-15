@@ -30,9 +30,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  # Dependency for material color picker
   flutter_material_color_picker: ^1.1.0+2
+  # Dependency for http requests
   http: ^0.13.4
+  # For State Management
   provider: ^6.0.3
+  # syncfusion dependency is used to get data into tabular format
   syncfusion_flutter_datagrid: ^20.2.38
 
 dev_dependencies:
